@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💫 About Me:
-- 🎓 Pursuing **BCA in Artificial Intelligence** at **Parul University, Gujarat**<br>- 💡 Passionate about **Artificial Intelligence, Machine Learning, Data Science, and Web Development**<br>- 🧠 Currently working on **AI-powered applications and automation systems**<br>- 🔬 Built projects like:<br>  - 🧠 Brain Tumor Detection using Deep Learning<br>  - 📈 Stock Market Prediction System<br>  - 🏠 House Price Prediction Model<br>  - 🤖 AI Freelancer Automation Platform<br>  - 📚 Django REST Book API<br>- 🌱 Currently learning:<br>  - Advanced AI & Deep Learning<br>  - Full Stack Development<br>  - Cloud & Automation<br>- 🎯 Goal: To become a professional **AI Engineer & Software Developer**<br>- ⚡ Fun Fact: I love building futuristic and creative tech projects
+- 🎓 Pursuing **BCA in Artificial Intelligence** at **Parul University, Gujarat**<br>- 💡 Passionate about **Artificial Intelligence, Machine Learning, Data Science, and Web Development**<br>- 🧠 Currently working on **AI-powered applications and automation systems**<br>- 🔬 Built projects like:<br>  - 🧠 Brain Tumor Detection using Deep Learning<br>  - 📈 Stock Market Prediction System<br>  - 🏠 House Price Prediction Model<br>  - 🤖 AI Freelancer Automation Platform<br>  - 📚 Django REST Book API<br>- 🌱 Currently learning:<br>  - Advanced AI & Deep Learning<br>  - Cloud & Automation<br>- 🎯 Goal: To become a professional **AI Engineer & Software Developer**<br>- ⚡ Fun Fact: I love building futuristic and creative tech projects
 
 
 ## 🌐 Socials:
