@@ -17,7 +17,7 @@
 - 🧾 B.C.A. in **Artificial Intelligence**, Parul University (completed 2025)
 - 📍 Based in **Nuremberg, Germany** — open to **Werkstudent / internship roles** in Data Science, Machine Learning & Analytics
 - 💡 Focused on **Machine Learning, Data Analysis, LLM workflows, and end-to-end AI applications**
-- 🔭 Currently building **AI-powered applications and automation systems**
+- 🔭 Currently building **Weather-Fish** — an AI weather-narration app (LLM + neural TTS), as project lead
 - 🌱 Currently learning **advanced Deep Learning, MLOps, and cloud automation**
 - ⚡ Fun fact: I love building futuristic, creative tech projects
 
@@ -25,6 +25,7 @@
 
 | Project | Description | Tech |
 | --- | --- | --- |
+| [Weather-Fish](https://github.com/fenilramani4007/weather-fish) — *Project Lead* | AI weather assistant that turns live weather data into personalized, human-like spoken reports; leading a 3-person team, deployed on Hugging Face | LLM · Prompt Engineering · edge-tts · APScheduler · Hugging Face |
 | [Brain Tumor Detection](https://github.com/fenilramani4007/Brain_Tumor_Detection) | CNN that classifies MRI scans into four tumor types (glioma, meningioma, pituitary, none), served via a Flask web app | TensorFlow · Keras · Flask · MongoDB |
 | [Stock Market Prediction](https://github.com/fenilramani4007/Stock-Market-Prediction) | Predictive system for market analysis and forecasting using real-time market data | Python · scikit-learn |
 | [House Price Prediction](https://github.com/fenilramani4007/House-Price-Prediciton) | Regression model with a full EDA → feature engineering → modelling pipeline | Python · Pandas · scikit-learn |
