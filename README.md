@@ -25,7 +25,7 @@
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [Weather-Fish]([https://github.com/fenilramani4007/weather-fish](https://huggingface.co/spaces/fenilramani4007/Weather_fish)) — *Project Lead* | AI weather assistant that turns live weather data into personalized, human-like spoken reports; leading a 3-person team, deployed on Hugging Face | LLM · Prompt Engineering · edge-tts · APScheduler · Hugging Face |
+| [Weather-Fish](https://huggingface.co/spaces/fenilramani4007/Weather_fish) — *Project Lead* | AI weather assistant that turns live weather data into personalized, human-like spoken reports; leading a 3-person team, deployed on Hugging Face | LLM · Prompt Engineering · edge-tts · APScheduler · Hugging Face |
 | [AI Process Automation (n8n)](https://github.com/fenilramani4007/n8n-automation) | AI agent that books, reschedules & confirms clinic appointments over WhatsApp/SMS — live Google Calendar availability checks with Google Sheets logging | n8n · LangChain · OpenRouter · Twilio · Google Calendar |
 | [Brain Tumor Detection](https://github.com/fenilramani4007/Brain_Tumor_Detection) | CNN that classifies MRI scans into four tumor types (glioma, meningioma, pituitary, none), served via a Flask web app | TensorFlow · Keras · Flask · MongoDB |
 | [Stock Market Prediction](https://github.com/fenilramani4007/Stock-Market-Prediction) | Predictive system for market analysis and forecasting using real-time market data | Python · scikit-learn |
